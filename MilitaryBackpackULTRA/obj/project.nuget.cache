@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OAKai0KzYo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MirzkisD1Ex0\\Desktop\\MilitaryBackpackULTRA\\MilitaryBackpackULTRA\\MilitaryBackpackULTRA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MirzkisD1Ex0\\.nuget\\packages\\lib.harmony\\2.4.1\\lib.harmony.2.4.1.nupkg.sha512",
+    "C:\\Users\\MirzkisD1Ex0\\.nuget\\packages\\lib.harmony.ref\\2.4.1\\lib.harmony.ref.2.4.1.nupkg.sha512",
+    "C:\\Users\\MirzkisD1Ex0\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\MirzkisD1Ex0\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
